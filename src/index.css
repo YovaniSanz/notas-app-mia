@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.fixed-button {
+    position: fixed;
+    bottom: 20px; /* Puedes ajustar la posición según tus preferencias */
+    right: 20px;
+    z-index: 10; /* Ajusta el valor de z-index según sea necesario para que esté por encima de otros elementos */
+}
