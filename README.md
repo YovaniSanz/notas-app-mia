@@ -15,7 +15,9 @@ Pasos para la Instalación
 
         cd notas-app-mia
 
-3.- Instala las Dependencias: npm install
+3.- Instala las Dependencias: 
+
+        npm install
 
 
 
